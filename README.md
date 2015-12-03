@@ -12,6 +12,9 @@ This first upload only aim to get the main game-code QVM's ready to use.
 * Client Side `cgame.qvm`
 * User Interface `ui.qvm`
 
+# Instructions
+To get the main QVM's for each version, you just need to join to a jk2 version folder and choose what you want to compile, For example: to compile the server-side part, enter to the `game` folder and run `game_2.bat`, then read the console output, if everything is ok you should see something like `writing to jk2mpgame.qvm`. After that, back to the `base` folder and QVM's will store in the `vm` folder. 
+
 # Requirements
 * Visual Studio C++ 2008 or higher
 
