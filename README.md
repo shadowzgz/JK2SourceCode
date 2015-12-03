@@ -1,5 +1,5 @@
 # JK2SourceCode
-Full JK2 Source Code ready to use (1.02, 1.03 and 1.04 versions)
+Full Source Code of Jedi Knight II ready to use (1.02, 1.03 and 1.04 versions)
 
 # Features
 * JK2 1.02, 1.03 and 1.04 version projects
@@ -19,12 +19,13 @@ To get the main QVM's for each version, you just need to join to a jk2 version f
 This repository aims to make mods for JK2, if you want to modify the engine code instead the game code, you should follow another project called [JK2MV (Multi Version)](https://github.com/mvdevs/jk2mv), it supports all three game versions and comes with various features and optimizations.
 
 # Requirements
+* Windows XP SP2 or higher
 * Visual Studio C++ 2008 or higher
 
 # Legal
-The initial release for the game-code was released in 2002 in the "JK2 Editing Tools". These tools are released "as is" and are unsupported by Raven Software, Activision or LucasArts.
+The initial release for the game-code was released in 2002 in the `JK2 Editing Tools`. These tools are released "as is" and are unsupported by Raven Software, Activision or LucasArts.
 
-The full release in 2013 and can be found on SourceForge, posted by James Monroe and Rich Whitehouse. Thanks to Raven Software for making this available to us.
+The full release was in 2013 and can be found on SourceForge, posted by James Monroe and Rich Whitehouse. Thanks to Raven Software for making this available to us.
 
 > GNU GENERAL PUBLIC LICENSE
 > Version 2, June 1991
